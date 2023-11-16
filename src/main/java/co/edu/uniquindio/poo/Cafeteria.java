@@ -2,6 +2,8 @@ package co.edu.uniquindio.poo;
 
 import java.util.ArrayList;
 
+// Realizado por Juan José Barrero Jaramillo y Brayan David Córdoba 
+
 public class Cafeteria {
 
     private ArrayList<Producto> productos;
